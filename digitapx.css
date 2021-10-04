@@ -6,3 +6,7 @@
     background-color:gold;
     padding: 15px;
 }
+
+img.img-responsive {
+    border: solid 1px maroon;
+}
